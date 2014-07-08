@@ -1,3 +1,6 @@
+# [Project site](http://jheftmann.github.io/hbksaar2014/)
+
+
 ## Setup
 - go to invite URL
 - enter personal info
