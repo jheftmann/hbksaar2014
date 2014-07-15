@@ -5,12 +5,12 @@
 
 
 ### Tools
-#### FTP
+
+##### FTP
 - [Cyberduck](http://cyberduck.io) (free)
 - [Transmit](http://panic.com/transmit/) (demo)
-- 
 
-#### Code editor
+##### Code editor
 - [Sublime Text](http://www.sublimetext.com) (free)
 - [Coda](http://panic.com/coda/) (demo)
 
