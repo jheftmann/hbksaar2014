@@ -10,13 +10,15 @@
 - [Cyberduck](http://cyberduck.io) (free)
 - [Transmit](http://panic.com/transmit/) (demo)
 
+
 ##### Code editor
 - [Sublime Text](http://www.sublimetext.com) (free)
 - [Coda](http://panic.com/coda/) (demo)
 
 
 ### Reference
-
+- [Cargo documentation](http://cargocollective.com/developers/overview)
+- 
 
 ## Setup
 - go to invite URL
