@@ -21,7 +21,6 @@
 ##### Cargo
 - [Cargo documentation](http://cargocollective.com/developers/overview)
 
-
 ##### HTML
 - [W3C official documentation](http://www.w3.org/TR/html-markup/)
 - [PDF cheatsheet](http://www.smashingmagazine.com/wp-content/uploads/images/html5-cheat-sheet/html5-cheat-sheet.pdf)
@@ -31,6 +30,8 @@
 - [W3C spec](http://www.w3.org/TR/CSS/)
 - [CSS cheatsheet](http://coding.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 - [Mastering CSS principles](http://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
+
+
 ## Setup
 - go to invite URL
 - enter personal info
