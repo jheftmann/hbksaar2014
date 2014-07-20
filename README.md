@@ -1,8 +1,6 @@
-# [Project site](http://jheftmann.github.io/hbksaar2014/)
-
+# Development for Designers - HBKsaar 2014
 
 ## Resources
-
 
 ### Tools
 
@@ -20,6 +18,8 @@
 
 ##### Cargo
 - [Cargo documentation](http://cargocollective.com/developers/overview)
+- [Andromeda theme](http://cargocollective.com/andromeda)
+- [Polaris theme](http://cargocollective.com/polaris)
 
 ##### HTML
 - [W3C official documentation](http://www.w3.org/TR/html-markup/)
