@@ -18,6 +18,7 @@
 
 ##### Cargo
 - [Cargo documentation](http://cargocollective.com/developers/overview)
+- [Cargo forum](http://support.cargocollective.com)
 - [Andromeda theme](http://cargocollective.com/andromeda)
 - [Polaris theme](http://cargocollective.com/polaris)
 
