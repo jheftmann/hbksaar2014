@@ -28,6 +28,8 @@
 
 		<!-- ------------------------------------------------------------------------edit below this line---------------------------------------------------------------- -->
 
+		<!-- header -->
+
 		<div class="site_header">
 
 			{{#if site.header_url}}
@@ -53,6 +55,8 @@
 			</div>
 
 		</div>
+
+		<!-- navigation -->
 
 		{{#unless route.search}}
 			{{! Navigation }}
@@ -101,6 +105,8 @@
 {{#route index "/"}}
 
 		<div class="container">
+		
+			<!-- a single project -->
 
 			<div id="project" class="project clear" data-view="ProjectDetail" data-set="Project"{{#if site.start_project_id}} style="display:block;"{{/if}}>
 
@@ -152,6 +158,8 @@
 				</div>
 
 			</div>
+			
+			<!-- all projects -->
 
 			<div id="thumbnails" class="thumbnails clear" data-view="Thumbnail" data-set="Projects">
 
@@ -219,6 +227,8 @@
 
 {{#route search "/search"}}
 
+	<!-- search -->
+
 	<div class="container search">
 		<div id="search" class="search" data-view="Search">
 			<div action="#" class="search_form_results" id="search_form_results">
@@ -254,6 +264,8 @@
 	</div>
 
 {{/route}}
+
+	<!-- nothing below this, please -->
 
 	</body>
 </html>
