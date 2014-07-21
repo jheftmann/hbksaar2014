@@ -16,6 +16,9 @@
 
 ### Reference
 
+##### Sections
+- [Design](https://github.com/jheftmann/hbksaar2014/blob/master/sections/01%20Design.pdf)
+
 ##### Cargo
 - [Cargo documentation](http://cargocollective.com/developers/overview)
 - [Cargo forum](http://support.cargocollective.com)
