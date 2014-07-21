@@ -1,6 +1,14 @@
 # Development for Designers - HBKsaar 2014
 
-## Resources
+## Contents
+1. [Sections](https://github.com/jheftmann/hbksaar2014#sections)
+2. [Tools](https://github.com/jheftmann/hbksaar2014#tools)
+2. [Reference](https://github.com/jheftmann/hbksaar2014#reference)
+3. [Font services](https://github.com/jheftmann/hbksaar2014#font-services)
+4. [Example portfolios](https://github.com/jheftmann/hbksaar2014#example-portfolios)
+
+### Sections
+- 01: [Design](https://github.com/jheftmann/hbksaar2014/blob/master/sections/01%20Design.pdf)
 
 ### Tools
 
@@ -15,9 +23,6 @@
 
 
 ### Reference
-
-##### Sections
-- o1: [Design](https://github.com/jheftmann/hbksaar2014/blob/master/sections/01%20Design.pdf)
 
 ##### Cargo
 - [Cargo documentation](http://cargocollective.com/developers/overview)
@@ -42,7 +47,14 @@
 - [Typekit](http://www.typekit.com)
 
 
-
+### Example portfolios
+- [http://wadejeffree.com](http://wadejeffree.com)
+- [http://wearebuild.com](http://wearebuild.com)
+- [http://boyce.io](http://boyce.io)
+- [http://mirkoborsche.com/2013-2014-maxjoseph-4](http://mirkoborsche.com/2013-2014-maxjoseph-4)
+- [http://www.anaisbourdet.fr](http://www.anaisbourdet.fr)
+- [http://www.ableparris.com](http://www.ableparris.com)
+- Also lots of nice examples from other Cargo users [here](http://cargocollective.com/favorites)
 
 
 
