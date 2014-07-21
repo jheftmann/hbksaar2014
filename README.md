@@ -42,7 +42,14 @@
 - [Typekit](http://www.typekit.com)
 
 
-
+### Example portfolios
+- [http://wadejeffree.com](http://wadejeffree.com)
+- [http://wearebuild.com](http://wearebuild.com)
+- [http://boyce.io](http://boyce.io)
+- [http://mirkoborsche.com/2013-2014-maxjoseph-4](http://mirkoborsche.com/2013-2014-maxjoseph-4)
+- [http://www.anaisbourdet.fr](http://www.anaisbourdet.fr)
+- [http://www.ableparris.com](http://www.ableparris.com)
+- Also lots of nice examples from other Cargo users [here](http://cargocollective.com/favorites)
 
 
 
