@@ -8,7 +8,7 @@
 4. [Example portfolios](https://github.com/jheftmann/hbksaar2014#example-portfolios)
 
 ### Sections
-- 01: [Design](https://github.com/jheftmann/hbksaar2014/blob/master/sections/01%20Design.pdf)
+- 01: [Design](https://www.dropbox.com/s/l9whrp6mk98zbzl/01%20Design.pdf)
 
 ### Tools
 
