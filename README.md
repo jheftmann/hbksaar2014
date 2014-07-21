@@ -38,7 +38,8 @@
 
 ### Font services
 - [Webtype](http://www.webtype.com)
-
+- [Fontdeck](http://www.fontdeck.com)
+- [Typekit](http://www.typekit.com)
 
 
 
