@@ -7,7 +7,7 @@
 3. [Font services](https://github.com/jheftmann/hbksaar2014#font-services)
 4. [Example portfolios](https://github.com/jheftmann/hbksaar2014#example-portfolios)
 
-#### Sections
+### Sections
 - 01: [Design](https://github.com/jheftmann/hbksaar2014/blob/master/sections/01%20Design.pdf)
 
 ### Tools
