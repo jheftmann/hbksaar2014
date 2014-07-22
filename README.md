@@ -54,6 +54,13 @@
 - [http://mirkoborsche.com/2013-2014-maxjoseph-4](http://mirkoborsche.com/2013-2014-maxjoseph-4)
 - [http://www.anaisbourdet.fr](http://www.anaisbourdet.fr)
 - [http://www.ableparris.com](http://www.ableparris.com)
+- [http://nate.van-der-en.de](http://nate.van-der-en.de)
+- [http://www.moderndesigners.co.uk](http://www.moderndesigners.co.uk)
+- [http://www.kolber.info](http://www.kolber.info)
+- [http://public-library.org](http://public-library.org)
+- [http://andrevv.com](http://andrevv.com)
+- [http://www.allanyu.net](http://www.allanyu.net)
+- [http://joshsender.com](http://joshsender.com)
 - Also lots of nice examples from other Cargo users [here](http://cargocollective.com/favorites)
 
 
