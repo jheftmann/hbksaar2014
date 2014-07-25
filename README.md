@@ -47,6 +47,11 @@
 - [Typekit](http://www.typekit.com)
 
 
+### Next steps
+- [Responsive Web Design: What It Is and How To Use It](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
+
+
 ### Example portfolios
 - [http://wadejeffree.com](http://wadejeffree.com)
 - [http://wearebuild.com](http://wearebuild.com)
